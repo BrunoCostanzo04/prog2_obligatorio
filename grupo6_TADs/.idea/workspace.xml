@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2f824c6-3d38-4760-8bce-5c650b00a75a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bjYq6xO3Hhe0ArENY81ONmrM7M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/git/prog2_obligatorio/grupo12-p2-tads" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="searchBinaryTree" />
+      <recent name="hash" />
+      <recent name="lista" />
+      <recent name="stack" />
+      <recent name="queue" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lista" />
+      <recent name="queue" />
+      <recent name="stack" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bruno\Google Drive\UM\Semestre 3\Programacion II\TADs\src\hash" />
+      <recent name="C:\Users\Bruno\Google Drive\UM\Semestre 3\Programacion II\TADs\src\lista" />
+      <recent name="C:\Users\Bruno\Google Drive\UM\Semestre 3\Programacion II\TADs\src\exceptions" />
+      <recent name="C:\Users\Bruno\Google Drive\UM\Semestre 3\Programacion II\TADs\src\queue" />
+      <recent name="C:\Users\Bruno\Google Drive\UM\Semestre 3\Programacion II\TADs\src\searchBinaryTree" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyBinarySearchTreeImplTest.recorridas">
+    <configuration name="MyBinarySearchTreeImplTest.flujPrincipal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TADs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searchBinaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="searchBinaryTree" />
+      <option name="MAIN_CLASS_NAME" value="searchBinaryTree.MyBinarySearchTreeImplTest" />
+      <option name="METHOD_NAME" value="flujPrincipal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBinarySearchTreeImplTest.recorridas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TADs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searchBinaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="searchBinaryTree" />
+      <option name="MAIN_CLASS_NAME" value="searchBinaryTree.MyBinarySearchTreeImplTest" />
+      <option name="METHOD_NAME" value="recorridas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCloseHashImplTest.flujoPrincipal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TADs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hash" />
+      <option name="MAIN_CLASS_NAME" value="hash.MyCloseHashImplTest" />
+      <option name="METHOD_NAME" value="flujoPrincipal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCloseHashImplTest.put" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TADs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hash" />
+      <option name="MAIN_CLASS_NAME" value="hash.MyCloseHashImplTest" />
+      <option name="METHOD_NAME" value="put" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyOpenHashImplTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TADs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hash" />
+      <option name="MAIN_CLASS_NAME" value="hash.MyOpenHashImplTest" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyBinarySearchTreeImplTest.recorridas" />
+        <item itemvalue="JUnit.MyBinarySearchTreeImplTest.flujPrincipal" />
+        <item itemvalue="JUnit.MyCloseHashImplTest.flujoPrincipal" />
+        <item itemvalue="JUnit.MyCloseHashImplTest.put" />
+        <item itemvalue="JUnit.MyOpenHashImplTest.get" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2f824c6-3d38-4760-8bce-5c650b00a75a" name="Default Changelist" comment="" />
+      <created>1589147157614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589147157614</updated>
+      <workItem from="1589147160107" duration="16282000" />
+      <workItem from="1589323823193" duration="1329000" />
+      <workItem from="1589326563265" duration="63000" />
+      <workItem from="1589746538068" duration="7514000" />
+      <workItem from="1589756171887" duration="102000" />
+      <workItem from="1589927498645" duration="1422000" />
+      <workItem from="1590009461466" duration="10052000" />
+      <workItem from="1590359224189" duration="10857000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1589755103521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1589755103521" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1590413664912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590413664912" />
+    <state x="305" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590410469550">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="305" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1590410469550" />
+    <state x="463" y="119" width="475" height="490" key="FileChooserDialogImpl" timestamp="1590463603947">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" width="475" height="490" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590463603947" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1590500035482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590500035482" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1590500035482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590500035482" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1590500035482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590500035482" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1590500035482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590500035482" />
+    <state width="1323" height="149" key="GridCell.Tab.1.bottom" timestamp="1590499379023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590499379023" />
+    <state width="1323" height="149" key="GridCell.Tab.1.center" timestamp="1590499379023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590499379023" />
+    <state width="1323" height="149" key="GridCell.Tab.1.left" timestamp="1590499379023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590499379023" />
+    <state width="1323" height="149" key="GridCell.Tab.1.right" timestamp="1590499379023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590499379023" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1589152727105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589152727105" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1590359231058">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590359231057" />
+    <state x="388" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589152754171">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="388" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1589152754171" />
+    <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590499434629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1590499434629" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1590413662045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1590413662045" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589152635024">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589152635024" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((Integer[])((MyHeapImpl)arbolCompleto).values)[2]" language="JAVA" custom="heap.MyHeapImpl,java.lang.Integer[]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
